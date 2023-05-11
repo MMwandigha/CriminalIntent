@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dhamira ya Jinai</string>
+    <string name="crime_title_hint">Weka jina la uhalifu.</string>
+    <string name="crime_title_label">Kichwa</string>
+    <string name="crime_details_label">Maelezo</string>
+    <string name="crime_solved_label">Kutatuliwa</string>
+    <string name="new_crime">Uhalifu Mpya</string>
+    <string name="crime_suspect_text">Chagua mtuhumiwa</string>
+    <string name="crime_report_text">Tuma ripoti ya uhalifu</string>
+    <string name="crime_report">%1$s!
+Uhalifu huo uligunduliwa tarehe %2$s. %3$s, y %4$s
+</string>
+    <string name="crime_report_solved">Kesi imetatuliwa</string>
+    <string name="crime_report_unsolved">Kesi haijatatuliwa</string>
+    <string name="crime_report_no_suspect">Hakuna mtuhumiwa</string>
+    <string name="crime_report_suspect">Mhutumiwa ni %s.</string>
+    <string name="crime_report_subject">Ripoti ya Uhalifu wa Jinai</string>
+    <string name="send_report">Tuma ripoti ya uhalifu kupitia</string>
+
+</resources>
